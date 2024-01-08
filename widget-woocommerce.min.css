@@ -3022,7 +3022,7 @@ body.rtl.woocommerce
   display: none;
 }
 .elementor-products-grid ul.products.elementor-grid li.product {
-  width: 40%;
+  width: 100%;
   padding: 0;
   margin: 0;
   float: none;
